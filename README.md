@@ -1,4 +1,4 @@
-<p align="center"><img width="15%" src="../icons/icon-128.png" /></p>
+<p align="center"><img width="15%" src="./icons/icon-128.png" /></p>
 <h1 align="center">谷歌访问助手</h1>
 
 最简单易用的谷歌访问助手,为chrome扩展用户量身打造。可以解决chrome扩展无法自动更新的问题，同时可以访问谷歌google搜索，google+等谷歌服务。
@@ -6,8 +6,8 @@
 <table align="center">
   <tr>
     <td align="center"><img src="./img/google.ico" /></td>
-    <td align="center"><img src=".../img/chrome.ico" /></td>
-    <td align="center"><img src="../img/gmail.ico" /></td>
+    <td align="center"><img src="./img/chrome.ico" /></td>
+    <td align="center"><img src="./img/gmail.ico" /></td>
   </tr>
   <tr>
     <td align="center">Google搜索</td>
